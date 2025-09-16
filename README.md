@@ -1,6 +1,12 @@
 # README
 프롬프트 자동 개선을 위한 프로젝트
 
+## 저장소 복사 방법
+```bash
+git clone https://github.com/KinderRookie/PromptOptimizerAgent.git
+cd PromptOptimizerAgent
+```
+
 - 코드 변경 사항이 있는 경우에는 항상 commit message를 작성하도록 합니다. 
 - README.md 하단 영역에 제거한 기사 id와 제목을 간단히 기록합니다. 
 
